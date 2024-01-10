@@ -1,1 +1,1 @@
-# data-science-in-cli
+# data-science-cli
